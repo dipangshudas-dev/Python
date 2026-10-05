@@ -11,6 +11,8 @@ Typical structure:
 - `Day_02/`
 - `Day_03/`
 - `Day_04/`
+- `Day_05/`
+- `Mini Project/`
 
 ## 🎯 Goals
 
